@@ -1,0 +1,11 @@
+bin\Debug\CyberBet.exe
+bin\Debug\CyberBet.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CyberBet.Form1.resources
+obj\Debug\CyberBet.Properties.Resources.resources
+obj\Debug\CyberBet.csproj.GenerateResource.Cache
+obj\Debug\CyberBet.exe
+obj\Debug\CyberBet.pdb
+obj\Debug\CyberBet.Form2.resources
+bin\Debug\cyberbase.mdb
+bin\Debug\CyberBet.exe.config

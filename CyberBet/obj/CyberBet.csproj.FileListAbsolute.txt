@@ -1,0 +1,3 @@
+C:\Documents and Settings\lev\Мои документы\Visual Studio 2005\Projects\CyberBet\CyberBet\bin\Debug\CyberBet.exe.config
+C:\Documents and Settings\lev\Мои документы\Visual Studio 2005\Projects\CyberBet\CyberBet\obj\Debug\CyberBet.exe
+C:\Documents and Settings\lev\Мои документы\Visual Studio 2005\Projects\CyberBet\CyberBet\obj\Debug\CyberBet.pdb

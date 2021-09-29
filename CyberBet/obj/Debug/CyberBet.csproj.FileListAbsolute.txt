@@ -1,0 +1,11 @@
+C:\Documents and Settings\lev\Мои документы\Visual Studio 2005\Projects\CyberBet\CyberBet\bin\Debug\CyberBet.exe.config
+C:\Documents and Settings\lev\Мои документы\Visual Studio 2005\Projects\CyberBet\CyberBet\obj\Debug\CyberBet.exe
+C:\Documents and Settings\lev\Мои документы\Visual Studio 2005\Projects\CyberBet\CyberBet\obj\Debug\CyberBet.pdb
+C:\Documents and Settings\lev\Мои документы\Visual Studio 2005\Projects\CyberBet\CyberBet\bin\Debug\cyberbase.mdb
+C:\Documents and Settings\lev\Мои документы\Visual Studio 2005\Projects\CyberBet\CyberBet\bin\Debug\CyberBet.exe
+C:\Documents and Settings\lev\Мои документы\Visual Studio 2005\Projects\CyberBet\CyberBet\bin\Debug\CyberBet.pdb
+C:\Documents and Settings\lev\Мои документы\Visual Studio 2005\Projects\CyberBet\CyberBet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lev\Мои документы\Visual Studio 2005\Projects\CyberBet\CyberBet\obj\Debug\CyberBet.Form1.resources
+C:\Documents and Settings\lev\Мои документы\Visual Studio 2005\Projects\CyberBet\CyberBet\obj\Debug\CyberBet.Form2.resources
+C:\Documents and Settings\lev\Мои документы\Visual Studio 2005\Projects\CyberBet\CyberBet\obj\Debug\CyberBet.Properties.Resources.resources
+C:\Documents and Settings\lev\Мои документы\Visual Studio 2005\Projects\CyberBet\CyberBet\obj\Debug\CyberBet.csproj.GenerateResource.Cache
